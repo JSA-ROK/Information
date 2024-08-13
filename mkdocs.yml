@@ -1,9 +1,9 @@
 site_name: Republic of Korea Documentation
-site_url: https://jsa-rok.github.io
+site_url: https://jsa-rok.github.io/Information/
 site_author: UrbanIndigo's Republic of Korea
 site_description: Active Documentation Service for the Republic of Korea Roblox Group.
-repo_name: JSA-ROK.github.io
-repo_url: https://github.com/JSA-ROK/jsa-rok.github.io
+repo_name: JSA-ROK/Information
+repo_url: https://github.com/JSA-ROK/Information
 
 theme:
   name: material
