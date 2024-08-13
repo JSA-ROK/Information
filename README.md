@@ -1,1 +1,1 @@
-# JSA-ROK.github.io
+# https://jsa-rok.github.io/Information/
