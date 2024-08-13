@@ -1,4 +1,5 @@
-arrange:
+nav:
+  - Home: index.md
   - About the Government
   - Executive Ordinances
   - Governing Documents

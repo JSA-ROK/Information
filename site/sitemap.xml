@@ -6,32 +6,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://jsa-rok.github.io/Information/pages/</loc>
-         <lastmod>2024-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Armed%20Forces/Air%20Force/</loc>
-         <lastmod>2024-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Armed%20Forces/Army/</loc>
-         <lastmod>2024-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Armed%20Forces/Marine%20Corps/</loc>
-         <lastmod>2024-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Armed%20Forces/Navy/</loc>
-         <lastmod>2024-08-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Armed%20Forces/Special%20Warfare%20Command/</loc>
+         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/National%20Assembly/</loc>
          <lastmod>2024-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -61,12 +36,62 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Executive%20Ministries/Ministry%20of%20National%20Defense/Air%20Force/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Executive%20Ministries/Ministry%20of%20National%20Defense/Marine%20Corps/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Executive%20Ministries/Ministry%20of%20National%20Defense/Navy/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Executive%20Ministries/Ministry%20of%20National%20Defense/Army/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Executive%20Ministries/Ministry%20of%20National%20Defense/Army/Special%20Warfare%20Command/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Executive%20Ministries/Ministry%20of%20the%20Interior%20and%20Safety/</loc>
          <lastmod>2024-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Executive%20Ministries/Ministry%20of%20the%20Interior%20and%20Safety/Korean%20National%20Police%20Agency/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Executive%20Ministries/Ministry%20of%20the%20Interior%20and%20Safety/National%20Intelligence%20Service/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Executive%20Ministries/Ministry%20of%20the%20Interior%20and%20Safety/Presidential%20Security%20Service/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Independent%20Organizations/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jsa-rok.github.io/Information/About%20the%20Government/Independent%20Organizations/National%20Election%20Commission/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsa-rok.github.io/Information/Executive%20Ordinances/</loc>
          <lastmod>2024-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -81,7 +106,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jsa-rok.github.io/Information/Governing%20Documents/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jsa-rok.github.io/Information/Governing%20Documents/constitution/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsa-rok.github.io/Information/Judicial%20Cases/Constitutional%20Court/</loc>
          <lastmod>2024-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -91,12 +126,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jsa-rok.github.io/Information/Judicial%20Cases/District%20Court/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jsa-rok.github.io/Information/Judicial%20Cases/District%20Court/001%20-%20Sample/</loc>
          <lastmod>2024-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jsa-rok.github.io/Information/Judicial%20Cases/High%20Court/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jsa-rok.github.io/Information/Judicial%20Cases/High%20Court/001%20-%20Sample/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsa-rok.github.io/Information/Judicial%20Cases/Supreme%20Court/</loc>
          <lastmod>2024-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -107,6 +157,11 @@
     </url>
     <url>
          <loc>https://jsa-rok.github.io/Information/Legislation/Acts%20of%20the%20National%20Assembly/001%20-%20Sample/</loc>
+         <lastmod>2024-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jsa-rok.github.io/Information/Legislation/Proposed%20Bills/</loc>
          <lastmod>2024-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>

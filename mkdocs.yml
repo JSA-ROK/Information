@@ -4,21 +4,39 @@ site_author: UrbanIndigo's Republic of Korea
 site_description: Active Documentation Service for the Republic of Korea Roblox Group.
 repo_name: JSA-ROK/Information
 repo_url: https://github.com/JSA-ROK/Information
+edit_uri: edit/main/docs/
 
 theme:
   name: material
   logo: assets/logo.png
   favicon: assets/logo.png
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: ember
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
   features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.tooltips
     - navigation.instant
     - navigation.instant.progress
     - navigation.instant.preview
@@ -29,6 +47,7 @@ theme:
     - navigation.expand
     - navigation.top
     - navigation.bottom
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - search.share
@@ -42,7 +61,6 @@ plugins:
   - git-authors
   - git-revision-date-localized:
       type: date
-  - section-index
 
 markdown_extensions:
   - admonition
