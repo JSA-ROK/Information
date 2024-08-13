@@ -1,5 +1,4 @@
 arrange:
-  - ...
   - About the Government
   - Executive Ordinances
   - Governing Documents

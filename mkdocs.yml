@@ -42,6 +42,7 @@ plugins:
   - git-authors
   - git-revision-date-localized:
       type: date
+  - section-index
 
 markdown_extensions:
   - admonition
